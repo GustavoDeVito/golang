@@ -56,9 +56,9 @@
 
 - [ ] 29. Faça um programa que calcule o cosseno de um ângulo usando a série de Taylor.
 
-- [ ] 30. Implemente um programa que determine se um número é Armstrong.
+- [x] 30. Implemente um programa que determine se um número é Armstrong.
 
-- [ ] 31. Crie um programa que conte quantas vezes uma substring aparece em uma string.
+- [x] 31. Crie um programa que conte quantas vezes uma substring aparece em uma string.
 
 - [ ] 32. Escreva um programa que realize a busca binária em um array ordenado.
 
