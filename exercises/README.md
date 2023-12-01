@@ -40,19 +40,19 @@
 
 - [ ] 21. Faça um programa que calcule o produto escalar de dois arrays.
 
-- [ ] 22. Implemente um programa que verifique se dois arrays são iguais.
+- [x] 22. Implemente um programa que verifique se dois arrays são iguais.
 
-- [ ] 23. Crie um programa que calcule a média de uma matriz.
+- [x] 23. Crie um programa que calcule a média de uma matriz.
 
-- [ ] 24. Escreva um programa que encontre o número mais frequente em uma matriz.
+- [x] 24. Escreva um programa que encontre o número mais frequente em uma matriz.
 
-- [ ] 25. Faça um programa que verifique se uma matriz é simétrica.
+- [x] 25. Faça um programa que verifique se uma matriz é simétrica.
 
-- [ ] 26. Implemente um programa que realize a transposição de uma matriz.
+- [x] 26. Implemente um programa que realize a transposição de uma matriz.
 
-- [ ] 27. Crie um programa que multiplique duas matrizes.
+- [x] 27. Crie um programa que multiplique duas matrizes.
 
-- [ ] 28. Escreva um programa que encontre o segundo maior elemento em um array.
+- [x] 28. Escreva um programa que encontre o segundo maior elemento em um array.
 
 - [ ] 29. Faça um programa que calcule o cosseno de um ângulo usando a série de Taylor.
 
