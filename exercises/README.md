@@ -26,7 +26,7 @@
 
 - [x] 14. Implemente um programa que converta uma temperatura em Celsius para Fahrenheit.
 
-- [ ] 15. Crie um programa que gere um triângulo de Pascal com um número de linhas dado.
+- [x] 15. Crie um programa que gere um triângulo de Pascal com um número de linhas dado.
 
 - [x] 16. Escreva um programa que ordene um array de números inteiros.
 
@@ -38,7 +38,7 @@
 
 - [x] 20. Escreva um programa que remova elementos duplicados de um array.
 
-- [ ] 21. Faça um programa que calcule o produto escalar de dois arrays.
+- [x] 21. Faça um programa que calcule o produto escalar de dois arrays.
 
 - [x] 22. Implemente um programa que verifique se dois arrays são iguais.
 
@@ -54,7 +54,7 @@
 
 - [x] 28. Escreva um programa que encontre o segundo maior elemento em um array.
 
-- [ ] 29. Faça um programa que calcule o cosseno de um ângulo usando a série de Taylor.
+- [x] 29. Faça um programa que calcule o cosseno de um ângulo usando a série de Taylor.
 
 - [x] 30. Implemente um programa que determine se um número é Armstrong.
 
