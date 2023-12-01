@@ -8,7 +8,7 @@ import (
 
 // Faça um programa que inverta um número inteiro.
 func main() {
-	var num int
+	var num int64
 
 	fmt.Print("Digite um número: ")
 	_, err := fmt.Scan(&num)
@@ -25,5 +25,10 @@ func main() {
 		reverse += numbers[i-1]
 	}
 
-	fmt.Println(strconv.ParseInt(reverse, 10, 0))
+	num, err = strconv.ParseInt(reverse, 10, 64)
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println(num)
 }
