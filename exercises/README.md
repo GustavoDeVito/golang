@@ -60,21 +60,21 @@
 
 - [x] 31. Crie um programa que conte quantas vezes uma substring aparece em uma string.
 
-- [ ] 32. Escreva um programa que realize a busca binária em um array ordenado.
+- [x] 32. Escreva um programa que realize a busca binária em um array ordenado.
 
 - [ ] 33. Faça um programa que calcule o valor do π usando a série de Leibniz.
 
-- [ ] 34. Implemente um programa que faça a rotação de um array para a direita.
+- [x] 34. Implemente um programa que faça a rotação de um array para a direita.
 
-- [ ] 35. Crie um programa que verifique se um número é um quadrado perfeito.
+- [x] 35. Crie um programa que verifique se um número é um quadrado perfeito.
 
 - [ ] 36. Escreva um programa que calcule a combinação de n elementos tomados de k em k.
 
-- [ ] 37. Faça um programa que conte quantas vezes um número aparece em um array.
+- [x] 37. Faça um programa que conte quantas vezes um número aparece em um array.
 
-- [ ] 38. Implemente um programa que realize a multiplicação de dois números sem usar o operador de multiplicação.
+- [x] 38. Implemente um programa que realize a multiplicação de dois números sem usar o operador de multiplicação.
 
-- [ ] 39. Crie um programa que calcule o máximo divisor comum (MDC) de um conjunto de números.
+- [x] 39. Crie um programa que calcule o máximo divisor comum (MDC) de um conjunto de números.
 
 - [ ] 40. Escreva um programa que realize a ordenação por contagem (counting sort) em um array.
 
