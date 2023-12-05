@@ -62,13 +62,13 @@
 
 - [x] 32. Escreva um programa que realize a busca binária em um array ordenado.
 
-- [ ] 33. Faça um programa que calcule o valor do π usando a série de Leibniz.
+- [x] 33. Faça um programa que calcule o valor do π usando a série de Leibniz.
 
 - [x] 34. Implemente um programa que faça a rotação de um array para a direita.
 
 - [x] 35. Crie um programa que verifique se um número é um quadrado perfeito.
 
-- [ ] 36. Escreva um programa que calcule a combinação de n elementos tomados de k em k.
+- [x] 36. Escreva um programa que calcule a combinação de n elementos tomados de k em k.
 
 - [x] 37. Faça um programa que conte quantas vezes um número aparece em um array.
 
@@ -76,17 +76,17 @@
 
 - [x] 39. Crie um programa que calcule o máximo divisor comum (MDC) de um conjunto de números.
 
-- [ ] 40. Escreva um programa que realize a ordenação por contagem (counting sort) em um array.
+- [x] 40. Escreva um programa que realize a ordenação por contagem (counting sort) em um array.
 
-- [ ] 41. Faça um programa que verifique se um número é positivo, negativo ou zero.
+- [x] 41. Faça um programa que verifique se um número é positivo, negativo ou zero.
 
-- [ ] 42. Implemente um programa que calcule a mediana de um conjunto de números.
+- [x] 42. Implemente um programa que calcule a mediana de um conjunto de números.
 
-- [ ] 43. Crie um programa que encontre o elemento que mais aparece em um array.
+- [x] 43. Crie um programa que encontre o elemento que mais aparece em um array.
 
-- [ ] 44. Escreva um programa que determine se um número é uma potência de 2.
+- [x] 44. Escreva um programa que determine se um número é uma potência de 2.
 
-- [ ] 45. Faça um programa que verifique se um número é primo de Mersenne.
+- [x] 45. Faça um programa que verifique se um número é primo de Mersenne.
 
 - [ ] 46. Implemente um programa que faça a rotação de uma matriz 90 graus no sentido horário.
 
