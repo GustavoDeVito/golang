@@ -88,12 +88,12 @@
 
 - [x] 45. Faça um programa que verifique se um número é primo de Mersenne.
 
-- [ ] 46. Implemente um programa que faça a rotação de uma matriz 90 graus no sentido horário.
+- [x] 46. Implemente um programa que faça a rotação de uma matriz 90 graus no sentido horário.
 
-- [ ] 47. Crie um programa que verifique se uma matriz é diagonal.
+- [x] 47. Crie um programa que verifique se uma matriz é diagonal.
 
-- [ ] 48. Escreva um programa que calcule a sequência de Collatz de um número.
+- [x] 48. Escreva um programa que calcule a sequência de Collatz de um número.
 
-- [ ] 49. Faça um programa que determine se um número é um quadrado mágico.
+- [x] 49. Faça um programa que determine se um número é um quadrado mágico.
 
-- [ ] 50. Implemente um programa que calcule a sequência de Hofstadter Q.
+- [x] 50. Implemente um programa que calcule a sequência de Hofstadter Q.
