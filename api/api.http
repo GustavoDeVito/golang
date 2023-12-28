@@ -1,0 +1,35 @@
+### FindAll
+GET http://localhost:8080/users HTTP/1.1
+
+### FindOne
+GET http://localhost:8080/users/6 HTTP/1.1
+
+### Create
+POST http://localhost:8080/users HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Tester",
+    "age": 18,
+    "username": "tst13"
+}
+
+### Update
+PATCH http://localhost:8080/users/6 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Tester",
+    "age": 40
+}
+
+### Update Password
+PUT http://localhost:8080/users/6/password HTTP/1.1
+Content-Type: application/json
+
+{
+    "password": "senha-teste"
+}
+
+### Delete
+DELETE http://localhost:8080/users/6 HTTP/1.1
