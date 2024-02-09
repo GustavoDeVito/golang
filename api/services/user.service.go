@@ -12,7 +12,7 @@ func FindAllUsers(c *gin.Context) {
 	var users []models.User
 
 	if err := models.DB.Find(&users).Error; err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to fetch users"})
+		c.JSON(http.StatusInternalServerError, gin.H{"error": helpers.USER_FAILED_FETCH})
 		return
 	}
 
